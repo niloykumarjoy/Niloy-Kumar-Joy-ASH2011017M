@@ -1,0 +1,101 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\title{INFORMATION TECHNOLOGY PROJECT}
+\author{Son Thai Tran, Le Ngoc Thanh, Nguyen Quoc Binh, Dang Binh Phuong, Le Hoai Bac }
+\date{Faculty of Information Technology,
+University of Science, Hochiminh city, Vietnam}
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+We present our experience in designing a course of Introduction to Information Technology (IIT) 
+for the first-year students. The main purpose of this course is to introduce the concepts of 
+computing and computer, and to present a hierarchy of information technology (IT) knowledge 
+from basic to advance through the introduction of syllabus system, research trends of our faculty, 
+IT applications in society, ethics and career potentials in IT. The content of this course is set up 
+to meet the Standard 4 in CDIO. We divide the introduction into two courses and teach the firstyear students in the first and second semesters. The first course is the introduction of computer, 
+computing, internet, ethics, and some technical skills of analysis, design, implementation, and 
+testing. This is an overview of IT from the outsiders. The second is a hierarchy of IT knowledge 
+from basic to advance through education systems and research in our faculty. This is an 
+overview of IT from inside viewpoint. We also present some experiences about the projectbased approach for labs and explain how we train personal skills and professional attitude for 
+our students. Finally, we conclude by providing comments with pros and cons in operating the
+courses.
+\section{KEYWORDS}
+Standard 4, Introduction to Information Technology, CDIO syllabus, Project-based learning
+
+\section{INTRODUCTION}
+In CDIO standard, the standard 4 [1] plays an important role to provide a general view about 
+curriculum, syllabus system, future career and beginning concepts of CDIO for the first-year 
+students in our university. Many similar works in engineering have been published in the CDIO 
+conference. Ramon Bragós, et. al. [2], presented a method that they have conceived, designed 
+and implemented "Introduction to Engineering" course at Telecom BCN, UPC, Barcelona using 
+the CDIO syllabus and standards. The basic concepts and professional skills were given to the 
+students through lessons and simple projects. From that, the students were able to recognize
+problems of which solutions we were going to teach in the following courses of the curriculum.
+Yingzi Wang, et. al. [3], introduced the implementation of the cornerstone project. They 
+transformed the name of “Introduction to Civil Engineering” into “Introduction to Civil Engineering 
+Design”. The difference is that students are put into an environment where they could learn and 
+use knowledge and professional skills to study design actively. Xiaohua Lu, et.al. [4], introduced 
+one approach of multi-disciplinary project for the introduction course. In his class, the students 
+were divided into different disciplinary groups and joined in project-based learning. That project 
+required students to design and build a computer-controlled tower crane at Shantou University. 
+This process helped students to understand the different modules and the input/output of each 
+module. As a result, the multi-disciplinary project is a good approach to introduction courses.
+Proceedings of the 9th International CDIO Conference, Massachusetts Institute of Technology and Harvard University 
+Goran Gustafsson, et. al. [5], presented his work of engineering education programs. The firstyear introductory course was discussed and shared to improve and increase student motivation. 
+They have identified projects and teamwork as important parts of the first-year courses. With the 
+CDIO approach, a new model for engineering education is developed to be able to implement 
+this projects and professional skills. In many previous works, we rarely see the first-year 
+introductory course to information technology (IT). In this paper, we present our experience in 
+designing a course of Introduction to Information Technology (IIT) for the first-year students. On 
+one hand, the main purpose of this course is to introduce the concepts of computing and 
+computer, and to present a hierarchy of IT knowledge from basic to advance through the 
+introduction of syllabus system, research trends of our faculty, IT applications in society, ethics 
+and career potentials in IT. On the other hand, the purpose of this course will introduce the 
+relationship between the contents of 4 year learning in the university with IT career after 
+graduation to first-year students. The IIT course also shows students the social requirements to 
+IT not only in Vietnam but also worldwide. After studying this course, the first-year student will 
+have another point of view about their role in the development of IT. From that starting point, it 
+will help students to think and navigate their future career in IT. It also influences to students’
+decision in course selections for undergraduate program at the current time or their intention to 
+enter the graduate program in the future. This course will also help the students to identify the 
+importance of engineering skills and appropriate attitudes for the success in their future career 
+path. From the above motivation, the design and implementation of this course have been 
+considered seriously by our senior lecturers and professors in our faculty. We have already 
+spent more than one year to prepare the learning outcome, syllabus, teaching/learning
+documents, and workspace for this course [6]. This paper will present our experiences in design, 
+building, teaching, and evaluation of this course to the first-year students in 2012.
+The content of this paper is presented as follows; Section 2 presents the design and building of 
+course goals and learning outcomes for IIT course. Section 3 presents the approach of projectbased learning to embed CDIO concepts in teaching and training for students. Section 4 
+presents the meeting and feedback between IT companies and the first-year students. Section 5 
+presents the assessments and some rubrics for this course. Section 6 is our discussions about 
+pros and cons in operating this course at our faculty. Section 7 is the conclusions.
+
+\begin{center}
+    \includegraphics[width.3\textwidth]{pic1.jpg}
+\end{center}
+\section{Algorithm complexity} 
+\begin{tabular}{|l|c|r|}
+    \hline
+    Algorithm & Best Case & Expected  \\
+    \hline
+    Selection sort & O(N2)  & O(N2)\\
+    \hline
+    Merge sort & O(NlogN) & O(NlogN)\\
+    \hline
+    Linear search & O(1) & O(N)\\
+    \hline
+    Binary search & O(1) & O(logN)\\
+    \hline
+    \end{tabular}
+\section{Equatios}
+\begin{equation}\label{my_first_eqn}
+dT/dt = k(T – T0)  
+\end{equation}
+\section{Reference}
+\url{file:///C:/Users/PC/Downloads/Data_Structure_Theoretical_Approach.pdf}
+
+\end{document}
